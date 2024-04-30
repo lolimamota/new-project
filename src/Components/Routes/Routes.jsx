@@ -8,6 +8,7 @@ export default function Router(){
     return(
         <BrowserRouter>
        <S.NavBar>
+        
         <ul>
             <li><Link className="backgroundNavBar" to='/'>Home</Link></li>
             <li><Link className="backgroundNavBar" to='/About'>About</Link></li>
