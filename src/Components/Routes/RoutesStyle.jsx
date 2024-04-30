@@ -6,6 +6,7 @@ export const NavBar = styled.nav`
     width: 25%;
     height: 100vh;
     background-color: #1E555C;
+    font-size: 1.5rem;
     li, .backgroundNavBar{
         background-color: #1E555C;
     }
